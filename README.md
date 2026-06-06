@@ -1,16 +1,40 @@
-## Hi there 👋
+```
+  .   *   .   *   .   *   .   *   .
+     ✦  G D C  ✦  E C O S Y S T E M  ✦
+  *   .   *   .   *   .   *   .   *
 
-<!--
-**xxf777lu-cell/xxf777lu-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+          ⛓️ On GoodChain
+          🪙 CGC — Community Governance Coin
+          🔄 DEX | 🥩 Staking | 🏅 Badges
 
-Here are some ideas to get you started:
+     ───  silent builders ───
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  From the community, for the community.
+  No noise. No hype. Just infrastructure.
+
+  .   *   .   *   .   *   .   *   .
+```
+
+<div align="center">
+
+![CGC](/cgc-logo-256.png)
+
+# GDC Autonomous Community
+
+_A self-contained DeFi ecosystem on GoodChain_
+
+---
+
+### 📍 Explore
+
+[🌐 Web App](https://xxf777lu-cell.github.io/goodchain-community/) · [🔗 BlockScout](https://goodchainscan.org) · [💬 Discord]() · [🐦 X]()
+
+---
+
+```
+🧱 Stack: Solidity · OpenZeppelin 5.0.2 · React 19 · ethers.js
+🌐 Chain: GoodChain #219 · Paris EVM
+🏗️  Status: Live & growing
+```
+
+<sub>_Good things come to those who build._</sub>
