@@ -27,7 +27,7 @@ _A self-contained DeFi ecosystem on GoodChain_
 
 ### 📍 Explore
 
-[🌐 Web App](https://xxf777lu-cell.github.io/goodchain-community/) · [🔗 BlockScout](https://goodchainscan.org) · [💬 Discord]() · [🐦 X]()
+[🌐 Web App](https://xxf777lu-cell.github.io/goodchain-community/) · [☁️ Cloudflare](https://cgc-proto.pages.dev) · [🔗 BlockScout](https://goodchainscan.org) · [💬 Discord]() · [🐦 X]()
 
 ---
 
