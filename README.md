@@ -29,14 +29,14 @@ _A self-contained DeFi ecosystem on GoodChain_
 
 | Page | Link |
 |------|------|
-| 🏠 **Dashboard** — Daily check-in & overview | [`/dashboard`](https://xxf777lu-cell.github.io/goodchain-community/dashboard) |
-| 🔄 **Swap** — CGC ↔ GDC trading | [`/swap`](https://xxf777lu-cell.github.io/goodchain-community/swap) |
-| 🥩 **Staking** — Stake & earn rewards | [`/staking`](https://xxf777lu-cell.github.io/goodchain-community/staking) |
-| 📊 **Leaderboard** — Community rankings | [`/leaderboard`](https://xxf777lu-cell.github.io/goodchain-community/leaderboard) |
-| 🎖️ **Badges** — Achievement NFTs | [`/badges`](https://xxf777lu-cell.github.io/goodchain-community/badges) |
-| 💰 **Economy** — Token economics | [`/economy`](https://xxf777lu-cell.github.io/goodchain-community/economy) |
-| 🗳️ **Governance** — Proposals & voting | [`/governance`](https://xxf777lu-cell.github.io/goodchain-community/governance) |
-| 📢 **Announcements** — Community updates | [`/announcements`](https://xxf777lu-cell.github.io/goodchain-community/announcements) |
+| 🏠 **Dashboard** — Daily check-in & overview | [`/#/dashboard`](https://xxf777lu-cell.github.io/goodchain-community/#/dashboard) |
+| 🔄 **Swap** — CGC ↔ GDC trading | [`/#/swap`](https://xxf777lu-cell.github.io/goodchain-community/#/swap) |
+| 🥩 **Staking** — Stake & earn rewards | [`/#/staking`](https://xxf777lu-cell.github.io/goodchain-community/#/staking) |
+| 📊 **Leaderboard** — Community rankings | [`/#/leaderboard`](https://xxf777lu-cell.github.io/goodchain-community/#/leaderboard) |
+| 🎖️ **Badges** — Achievement NFTs | [`/#/badges`](https://xxf777lu-cell.github.io/goodchain-community/#/badges) |
+| 💰 **Economy** — Token economics | [`/#/economy`](https://xxf777lu-cell.github.io/goodchain-community/#/economy) |
+| 🗳️ **Governance** — Proposals & voting | [`/#/governance`](https://xxf777lu-cell.github.io/goodchain-community/#/governance) |
+| 📢 **Announcements** — Community updates | [`/#/announcements`](https://xxf777lu-cell.github.io/goodchain-community/#/announcements) |
 
 ---
 
